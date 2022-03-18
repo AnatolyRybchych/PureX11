@@ -1,0 +1,12 @@
+/home/anatoly/Desktop/X11/bin/Debug/net6.0/X11.deps.json
+/home/anatoly/Desktop/X11/bin/Debug/net6.0/X11.dll
+/home/anatoly/Desktop/X11/bin/Debug/net6.0/X11.pdb
+/home/anatoly/Desktop/X11/obj/Debug/net6.0/X11.csproj.AssemblyReference.cache
+/home/anatoly/Desktop/X11/obj/Debug/net6.0/X11.GeneratedMSBuildEditorConfig.editorconfig
+/home/anatoly/Desktop/X11/obj/Debug/net6.0/X11.AssemblyInfoInputs.cache
+/home/anatoly/Desktop/X11/obj/Debug/net6.0/X11.AssemblyInfo.cs
+/home/anatoly/Desktop/X11/obj/Debug/net6.0/X11.csproj.CoreCompileInputs.cache
+/home/anatoly/Desktop/X11/obj/Debug/net6.0/X11.dll
+/home/anatoly/Desktop/X11/obj/Debug/net6.0/refint/X11.dll
+/home/anatoly/Desktop/X11/obj/Debug/net6.0/X11.pdb
+/home/anatoly/Desktop/X11/obj/Debug/net6.0/ref/X11.dll
